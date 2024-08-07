@@ -8,7 +8,6 @@ This repository contains a Jupyter notebook for analyzing and transforming housi
 - [Usage](#usage)
 - [Notebook Overview](#notebook-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -70,7 +69,3 @@ The notebook is well-documented with markdown cells explaining each step of the 
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
